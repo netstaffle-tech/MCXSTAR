@@ -11,7 +11,7 @@ Real-time commodity prices with lightning-fast updates, INTERACTIVE CHARTS, Adva
 
 
 ## 🎯 Key Features
-![Module](https://github.com/netstaffle-tech/DoctorSolve/blob/main/DoctorSolve_Application.png)
+![Module](https://github.com/netstaffle-tech/MCXSTAR/blob/main/mcxStar_application.png)
 
 
 ## 🚀 Enhancements & Improvements
